@@ -1,0 +1,1 @@
+Cuando la función o los archivos están terminados, se fusionan con desarrollo. En Gitflow, no se fusionan con main directamente.
