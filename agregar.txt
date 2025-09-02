@@ -2,8 +2,11 @@
 Aqui se hara el conflicto.
 
 las dos escribimos al mismo tiempo.
-=======
 Aqui se hara el conflicto
 
 escribo al mismo tiempo que ella 
 
+
+Aqui se hara el conflicto
+
+escribo al mismo tiempo que ella 
